@@ -1,4 +1,3 @@
-![Dashboard](./dashBoard
-)
+![Dashboard](./dashBoard)
 
 
