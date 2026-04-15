@@ -1,3 +1,3 @@
-![dashboard](./dashBoard2.png)
+![dashboard](./dashboard2.png)
 
 
