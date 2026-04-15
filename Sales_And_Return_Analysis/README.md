@@ -108,4 +108,4 @@ All visuals update automatically based on selected filters.
 * Data Modeling (Star Schema)
 * Interactive Visualizations
 
-
+![dashboard](./2.png.png)
